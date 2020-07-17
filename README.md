@@ -1,5 +1,7 @@
 # Hi, I'm Tia! 👋
 
+![typing cat](https://i.imgur.com/2JZkmtH.gif)
+
 + :seedling: **Learning:** Full stack development 
 + :boom: Starting Northcoders bootcamp in August 2020!
 
