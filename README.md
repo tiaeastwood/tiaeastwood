@@ -11,6 +11,6 @@
 ## Contact Me:
 [![Website](https://img.icons8.com/nolan/64/domain.png)](https://tiaeastwood.com)[![Twitter](https://img.icons8.com/nolan/64/twitter-squared.png)](https://twitter.com/TiaEastwood)[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://www.linkedin.com/in/tiaeastwood/)[![Email](https://img.icons8.com/nolan/64/email.png)](mailto:tia@tiaeastwood.com)
 
-<sub><sup><a href="https://icons8.com">GitHub icons by Icons8</a></sub></sup>
+<sub><sup><a href="https://icons8.com">Icons by Icons8</a></sub></sup>
 
 
