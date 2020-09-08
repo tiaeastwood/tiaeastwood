@@ -4,7 +4,6 @@
 
 + :seedling: Learning to code through 2020, year of the pandemic!
 + :boom: Student of Northcoders bootcamp, due to graduate November 2020!
-+ JavaScript, Node, React...
 
 
 ## Contact Me:
