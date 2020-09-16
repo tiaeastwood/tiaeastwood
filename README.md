@@ -2,8 +2,12 @@
 
 <img src="https://media3.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif?cid=ecf05e47a9mb12ejljtebqu7spmlt1maynrojrih4biln8pc&rid=giphy.gif" width=300px><img src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e478ad62c12e26bb04ed0cf32014afe2d319cf72ef7&rid=giphy.gif" width=300px>
 
-+ :seedling: Learning to code through 2020, year of the pandemic!
 + :boom: Student of Northcoders bootcamp, due to graduate November 2020!
++ :seedling: Learning both Backend and Frontend technologies
++ :sparkles: STACK: HTML, CSS, JavaScript, Node, React, Bootstrap, SQL, postgreSQL, Express
++ :heart: I love responsive design!
+
+
 
 
 ## Contact Me:
