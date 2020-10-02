@@ -1,6 +1,6 @@
 # Hi, I'm Tia! 👋
 
-<img src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e478ad62c12e26bb04ed0cf32014afe2d319cf72ef7&rid=giphy.gif" width=25% img align="right">
+<img src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e478ad62c12e26bb04ed0cf32014afe2d319cf72ef7&rid=giphy.gif" width='150px' img align="right">
 
 + :boom: Student of Northcoders bootcamp, due to graduate November 2020!
 + :seedling: Learning both Backend and Frontend technologies
