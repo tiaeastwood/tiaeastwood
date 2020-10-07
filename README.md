@@ -7,7 +7,6 @@
 
 
 [![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=synthwave)](https://github.com/tiaeastwood/github-readme-stats )
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaeastwood&layout=compact&theme=synthwave&card_width=447&langs_count=10)](https://github.com/tiaeastwood/github-readme-stats)
 
 
