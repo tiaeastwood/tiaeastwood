@@ -12,4 +12,6 @@
 
 [![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=synthwave)](https://github.com/tiaeastwood/github-readme-stats)
 
-
+# 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
