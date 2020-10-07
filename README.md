@@ -7,11 +7,13 @@
 + :sparkles: STACK: HTML, CSS, JavaScript, Node, React, Bootstrap, SQL, postgreSQL, Express
 + :heart: I love responsive design!
 
-## Contact Me:
-[![Website](https://img.icons8.com/nolan/64/domain.png)](https://tiaeastwood.com)[![Twitter](https://img.icons8.com/nolan/64/twitter-squared.png)](https://twitter.com/TiaEastwood)[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://www.linkedin.com/in/tiaeastwood/)[![Email](https://img.icons8.com/nolan/64/email.png)](mailto:tia@tiaeastwood.com)
+
 
 [![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=synthwave)](https://github.com/tiaeastwood/github-readme-stats)
 
 # 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+# 💻 Contact Me:
+[![Website](https://img.icons8.com/nolan/64/domain.png)](https://tiaeastwood.com)[![Twitter](https://img.icons8.com/nolan/64/twitter-squared.png)](https://twitter.com/TiaEastwood)[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://www.linkedin.com/in/tiaeastwood/)[![Email](https://img.icons8.com/nolan/64/email.png)](mailto:tia@tiaeastwood.com)
