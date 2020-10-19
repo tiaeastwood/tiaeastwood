@@ -13,11 +13,11 @@
 
 # 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bootcamp Diaries - Week 10 - Frontend Part 2](https://tiaeastwood.com/blog/bootcamp-diaries-week-10-frontend-part-2/)
 - [Bootcamp Diaries - Week 9 - Frontend Part 1](https://tiaeastwood.com/blog/bootcamp-week-9-frontend/)
 - [Bootcamp Diaries - Week 8 - Careers Week](https://tiaeastwood.com/blog/bootcamp-diary-careers-week/)
 - [Bootcamp Diaries - Week 7 - Backend Part 3](https://tiaeastwood.com/blog/bootcamp-week-7/)
 - [Bootcamp Diaries - Week 6 - Backend Part 2](https://tiaeastwood.com/blog/bootcamp-week-6/)
-- [Bootcamp Diaries - Week 5 - Backend Part 1](https://tiaeastwood.com/blog/bootcamp-week-5-backend/)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Contact Me:
