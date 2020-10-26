@@ -13,7 +13,7 @@
 
 # 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bootcamp Diaries - Week 11 - Frontend part 3](https://tiaeastwood.com/blog/bootcamp-week-11-frontend-part3/)
+- [Bootcamp Diaries - Week 11 - Frontend Part 3](https://tiaeastwood.com/blog/bootcamp-week-11-frontend-part3/)
 - [Bootcamp Diaries - Week 10 - Frontend Part 2](https://tiaeastwood.com/blog/bootcamp-diaries-week-10-frontend-part-2/)
 - [Bootcamp Diaries - Week 9 - Frontend Part 1](https://tiaeastwood.com/blog/bootcamp-week-9-frontend/)
 - [Bootcamp Diaries - Week 8 - Careers Week](https://tiaeastwood.com/blog/bootcamp-diary-careers-week/)
