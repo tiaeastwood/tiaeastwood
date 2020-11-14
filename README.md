@@ -1,8 +1,9 @@
 # Hi, I'm Tia! 👋
 
-+ :boom: Student of Northcoders bootcamp, due to graduate November 2020!
-+ :seedling: Learning both Backend and Frontend technologies
-+ :sparkles: STACK: HTML, CSS, JavaScript, Node, React, Bootstrap, SQL, postgreSQL, Express
++ :boom: Graduated from Northcoders bootcamp on 13th November 2020!
++ :sparkles: STACK: HTML, CSS, JavaScript, React,  Node, SQL/postgreSQL, Express
++ :heart: I love: Frontend development and responsive design
++ :seedling: Currently learning: More about the features of Google Firebase & Firestore
 
 
 
