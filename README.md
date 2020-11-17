@@ -3,7 +3,7 @@
 + :boom: Graduated from Northcoders bootcamp on 13th November 2020!
 + :sparkles: STACK: HTML, CSS, JavaScript, React,  Node, SQL/postgreSQL, Express
 + :heart: I love: Frontend development and responsive design
-+ :seedling: Currently learning: More about the features of Google Firebase & Firestore
++ :seedling: Currently learning: [Gatsby.js](https://www.gatsbyjs.com/) to build a new blog
 
 
 
