@@ -3,8 +3,8 @@
 + :boom: Graduated from Northcoders bootcamp on 13th November 2020!
 + :sparkles: STACK: HTML, CSS, JavaScript, React,  Node, SQL/postgreSQL, Express
 + :heart: I love: Frontend development and responsive design
-+ :seedling: Currently learning: [Gatsby.js](https://www.gatsbyjs.com/) to build a new blog
-
++ :seedling: Currently learning: React Native
++ :speech_balloon: Currently working on: A new version of my website in React, & an educational mobile app in React Native
 
 
 [![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=synthwave)](https://github.com/tiaeastwood/github-readme-stats )
