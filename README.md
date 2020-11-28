@@ -3,7 +3,7 @@
 + :boom: Graduated from Northcoders bootcamp on 13th November 2020!
 + :sparkles: STACK: HTML, CSS, JavaScript, React,  Node, SQL/postgreSQL, Express
 + :seedling: Currently learning: Gatsby and React Native
-+ :speech_balloon: Currently working on: A new version of my website in React/Gatsby, & an educational mobile app in React Native
++ :speech_balloon: Currently working on: A new version of my website in React/Gatsby, & an educational mobile app for a client in React Native
 + :heart: I love: Cats, coffee and code
 
 
