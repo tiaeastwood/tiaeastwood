@@ -1,9 +1,9 @@
 # Hi, I'm Tia! 👋
 
 + :boom: Graduated from Northcoders bootcamp on 13th November 2020!
-+ :sparkles: STACK: HTML, CSS, JavaScript, React,  Node, SQL/postgreSQL, Express
-+ :seedling: Currently learning: How to use Gatsby
-+ :speech_balloon: Currently working on: A new website for myself using Gatsby, and finding a job!
++ :sparkles: STACK: HTML, CSS, JavaScript, React, Node, SQL/postgreSQL, Express
++ :seedling: Currently learning: ...
++ :speech_balloon: Currently working on: New blog posts and finding a job!
 + :heart: I love: Cats, coffee and code
 
 [![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=synthwave)](https://github.com/tiaeastwood/github-readme-stats )
