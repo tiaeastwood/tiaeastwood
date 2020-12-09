@@ -6,8 +6,8 @@
 + :speech_balloon: Currently working on: New blog posts and finding a job!
 + :heart: I love: Cats, coffee and code
 
-[![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=tokyonight)](https://github.com/tiaeastwood/github-readme-stats )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaeastwood&layout=compact&theme=tokyonight&card_width=447&langs_count=10)](https://github.com/tiaeastwood/github-readme-stats)
+[![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=radical)](https://github.com/tiaeastwood/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaeastwood&layout=compact&theme=radical&card_width=447&langs_count=10)](https://github.com/tiaeastwood/github-readme-stats)
 
 # 💻 Contact Me:
 [![Website](https://img.icons8.com/nolan/64/domain.png)](https://tiaeastwood.com)[![Twitter](https://img.icons8.com/nolan/64/twitter-squared.png)](https://twitter.com/TiaEastwood)[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://www.linkedin.com/in/tiaeastwood/)[![Email](https://img.icons8.com/nolan/64/email.png)](mailto:tia@tiaeastwood.com)
