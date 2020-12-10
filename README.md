@@ -2,7 +2,7 @@
 
 + :boom: Graduated from Northcoders bootcamp on 13th November 2020!
 + :sparkles: STACK: HTML, CSS, JavaScript, React, Node, SQL/postgreSQL, Express
-+ :seedling: Currently learning: Python
++ :seedling: Currently learning: ...
 + :speech_balloon: Currently working on: New blog posts and finding a job!
 + :heart: I love: Cats, coffee and code
 
