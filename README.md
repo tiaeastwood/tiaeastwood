@@ -4,7 +4,7 @@
 + :sparkles: STACK: HTML, CSS, JavaScript, React, Node, SQL/postgreSQL, Express
 + :seedling: Currently learning: React hooks instead of classes
 + :speech_balloon: Currently working on: Waiting to start my new job!
-+ :heart: I love: Cats, coffee and code
++ :heart: I love: Cats, coffee, code, cross-stitch
 
 [![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=radical)](https://github.com/tiaeastwood/github-readme-stats )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiaeastwood&layout=compact&theme=radical&card_width=447&langs_count=10)](https://github.com/tiaeastwood/github-readme-stats)
