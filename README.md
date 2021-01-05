@@ -2,7 +2,7 @@
 
 + :boom: Learnt to code and graduated from Northcoders bootcamp during 2020!
 + :sparkles: STACK: HTML, CSS, JavaScript, React, Node, SQL/postgreSQL, Express
-+ :seedling: Currently learning: React hooks instead of classes
++ :seedling: Currently learning: React hooks and function components instead of classes
 + :speech_balloon: Currently working on: Waiting to start my new job!
 + :heart: I love: Cats, coffee, code, cross-stitch
 
