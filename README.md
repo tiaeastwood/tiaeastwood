@@ -2,8 +2,8 @@
 
 + :boom: Learnt to code and graduated from Northcoders bootcamp during 2020!
 + :sparkles: STACK: HTML, CSS, JavaScript, React, Node, SQL/postgreSQL, Express
-+ :seedling: Currently learning: Switching from React classes to hooks
-+ :speech_balloon: Currently working on: Waiting to start my new job!
++ :seedling: Currently learning: Advanced React hooks, TypeScript
++ :speech_balloon: Currently working on: New job and tutorials about what I'm learning
 + :heart: I love: Cats, coffee, code, cross-stitch
 
 [![Tia's github stats](https://github-readme-stats.vercel.app/api?username=tiaeastwood&theme=radical)](https://github.com/tiaeastwood/github-readme-stats )
