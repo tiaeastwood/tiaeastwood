@@ -1,7 +1,7 @@
 # Hi, I'm Tia! 👋
 
-+ :boom: Learnt to code and graduated from Northcoders bootcamp during 2020!
-+ :sparkles: STACK: HTML, CSS, JavaScript, React, Node, SQL/postgreSQL, Express
++ :boom: Learnt to code and graduated from Northcoders bootcamp during 2020! Now working as a dev!
++ :sparkles: STACK: HTML, CSS, JavaScript, TypeScript, React, Node, SQL/postgreSQL, Express
 + :seedling: Currently learning: Advanced React hooks, TypeScript
 + :speech_balloon: Currently working on: New job and tutorials about what I'm learning
 + :heart: I love: Cats, coffee, code, cross-stitch
