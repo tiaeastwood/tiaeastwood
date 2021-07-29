@@ -1,7 +1,7 @@
 # Hi, I'm Tia! 👋
 
 + :boom: Learnt to code and graduated from Northcoders bootcamp during 2020! Now employed as a full stack software developer!
-+ :sparkles: STACK: HTML, CSS, JavaScript, TypeScript, React, C#, GraphQlL
++ :sparkles: STACK: HTML, CSS, JavaScript, TypeScript, React, React-Native, C#, GraphQL
 + :seedling: Currently learning: C# and GraphQL
 + :speech_balloon: Currently working on: My job (web applications) and developing an Android app with React-Native Expo in my spare time!
 + :heart: I love: Cats, coffee, code, cross-stitch
