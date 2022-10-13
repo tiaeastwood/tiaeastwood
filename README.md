@@ -1,8 +1,8 @@
 # Hi, I'm Tia! 👋
 
 + :boom: Career changer and graduate of Northcoders bootcamp, class of 2020! Now employed as a full stack software developer!
-+ :sparkles: STACK: HTML, CSS, JavaScript/TypeScript, React, React-Native, GraphQL
-+ :heart: I love: Cats, coffee, code, cross-stitch
++ :sparkles: STACK: MERN (Mongo, Express, React, Node) + HTML, CSS, JavaScript/TypeScript, React-Native, GraphQL, Firebase
++ :heart: I love: Cats, coffee, code, cross-stitch, true-crime, cryptozoology
 
 [![@teastwood's Holopin board](https://holopin.io/api/user/board?user=teastwood)](https://holopin.io/@teastwood)
 
