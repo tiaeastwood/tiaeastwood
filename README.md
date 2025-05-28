@@ -6,6 +6,6 @@
 [![@teastwood's Holopin board](https://holopin.io/api/user/board?user=teastwood)](https://holopin.io/@teastwood)
 
 # 💻 Contact Me:
-[![Twitter](https://img.icons8.com/nolan/64/twitter-squared.png)](https://twitter.com/TiaEastwood)[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://www.linkedin.com/in/tiaeastwood/)
+[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://www.linkedin.com/in/tiaeastwood/)
 
               
